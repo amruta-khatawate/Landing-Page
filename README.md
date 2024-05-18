@@ -23,17 +23,4 @@ First, run the development server:
 npm run dev
 ```
 
-### Usage
-
-1. Open `index.html` in your web browser to view the landing page.
-    ```sh
-    open index.html
-    ```
-    or simply double-click the `index.html` file.
-
-
-## Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/landing-page](https://github.com/yourusername/landing-page)
+Open [http://localhost:5173/](http://localhost:5173/) with your browser to see the result.
